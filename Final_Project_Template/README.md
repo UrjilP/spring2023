@@ -14,9 +14,35 @@ YouTube Video:  [Link](http://your_link_goes_here)
 *The table below will serve as your Progress Report (due by end of day on Monday, May 8).  Be sure to list all tasks that you need to complete to finish your analysis and to successfully complete the requirements of this project.*
 
 | ID | Task Description | Due Date | Status |
-| --- | --- | --- | --- |
+
 | 1 | Update this table with detailed list of tasks | 2023-05-08 | DONE |
-| ... |  | | 
+| 1.|	Standardizing the Data:|
+|	|1.1|	Check for void entries in the address and listing date attributes.|	|
+|	|1.2|	Write a program to handle void entries and standardize the data format.|	|
+| 2.|	Calculating Statistics for Rent:|	|
+	|2.1|	Extract rent values for each area.|	|
+	|2.2|	Perform an analysis of variance (ANOVA) to compare rent across different areas.|	|		
+	|2.3|	Calculate the mean and median rent for each region.|	|
+| 3.|	Visualizing Rent, Availability, and Amenities Data:|	|
+	|3.1|	Gather data on rents, availability, and amenities.|	|
+	|3.2|	Use appropriate visualization libraries (e.g., Matplotlib, Seaborn) to create plots and graphs.|	|
+	|3.3|	Visualize rent data to identify patterns and make inferences about location preferences.|	|
+	|3.4|	Visualize availability data to determine the best time for renting.|	|
+	|3.5|	Analyze the relationship between amenities and rental options.|		|
+| 4.|	Regression Analysis for Rent Forecasting:|	|
+	|4.1|	Collect historical rent data for each area.|	|
+	|4.2|	Conduct regression analysis using a suitable regression model (e.g., linear regression).|	|
+	|4.3|	Train the model using historical data and generate predictions for future monthly rents.|	|
+| 5.|	Analyzing Availability and Rent:|	|	
+	|5.1|	Explore the availability and rent trends across various areas.|	|
+	|5.2|	Identify rental hotspots based on high demand and low availability.|	|
+	|5.3|	Determine the best time for renting by analyzing availability patterns.|	|
+	|5.4|	Identify affordable options based on rent and availability data.|	|
+| 6.|	Identifying Top Amenities and Features:|	|
+	|6.1|	Analyze the availability of rental options with different amenities and features.|	|
+	|6.2|	Identify the most commonly available amenities and features.|	|
+	|6.3|	Determine the trends and preferences based on the availability of specific amenities.|	|
+
 | n-1 | Complete YouTube video and upload to YouTube | 2023-05-16 | |
 | n | Upload README.md document to Github | 2023-05-17 |
 
